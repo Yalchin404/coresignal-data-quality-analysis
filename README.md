@@ -1,0 +1,1 @@
+Move into the `company_data` folder. In each `JSON` file, look for `company_featured_employees_collection`. You can skip company named `moeco` it was just a test i made.

@@ -1,0 +1,396 @@
+{
+    "id": 25877542,
+    "url": "https://www.linkedin.com/company/humand-technologies",
+    "hash": "e337e788ec5b1db6c30de11598b390bd",
+    "name": "Humand",
+    "website": "https://www.humand.co",
+    "size": "1-10 employees",
+    "industry": "Information Technology & Services",
+    "description": "It is hard for companies to communicate digitally with distributed employees who don't have a company email or PC while they work. We let non-desk workers without a company email do typical communication and HR tasks, such as filling forms, responding surveys, asking questions or receiving company announcements. All from their phones.\n\nOur SaaS product has been implemented for over 3,000 employees by ArcelorMittal, the biggest steel producer in the world.",
+    "followers": 55,
+    "founded": 2019,
+    "headquarters_city": null,
+    "headquarters_country": null,
+    "headquarters_state": null,
+    "headquarters_street1": null,
+    "headquarters_street2": null,
+    "headquarters_zip": null,
+    "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFv3RVZSNy-9g/company-logo_200_200/0?e=2159024400&v=beta&t=jjKYQOFhxoft0vZ6ssHVZQHKukQ2Hkg2wUmOE4ezj0g",
+    "created": "2020-03-24 11:46:01",
+    "last_updated": "2021-11-26 15:05:47",
+    "last_response_code": 200,
+    "type": "Privately Held",
+    "headquarters_new_address": "City of Buenos Aires, Buenos Aires",
+    "employees_count": 4,
+    "headquarters_country_restored": null,
+    "headquarters_country_parsed": "Argentina",
+    "company_shorthand_name": "humand-technologies",
+    "company_shorthand_name_hash": "d12abbbb967ed8710c3df4d7eb28cead",
+    "canonical_url": "https://ar.linkedin.com/company/humand-technologies",
+    "canonical_hash": "ac9fbb355a1be2d1cbbba7c03d0ba6ce",
+    "canonical_shorthand_name": "humand-technologies",
+    "canonical_shorthand_name_hash": "d12abbbb967ed8710c3df4d7eb28cead",
+    "deleted": 0,
+    "last_updated_ux": 1605810990,
+    "source_id": null,
+    "company_affiliated_collection": [],
+    "company_also_viewed_collection": [],
+    "company_crunchbase_info_collection": [],
+    "company_featured_employees_collection": [
+        {
+            "id": 40397822,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/in/marcos-ariel-atar-3a72bb85",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 40397823,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/in/benenzon",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 40397824,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/in/geronimomaspero",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 48552895,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/in/guidofaranna",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 55325406,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/in/jorgeandresrocha",
+            "created": "2020-10-30 21:17:11",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        }
+    ],
+    "company_featured_investors_collection": [],
+    "company_funding_rounds_collection": [],
+    "company_locations_collection": [
+        {
+            "id": 14250070,
+            "company_id": 25877542,
+            "location_address": "City of Buenos Aires, Buenos Aires, AR",
+            "is_primary": 1,
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-04-18 17:55:29",
+            "deleted": 1
+        },
+        {
+            "id": 16135914,
+            "company_id": 25877542,
+            "location_address": "City of Buenos Aires, Buenos Aires, AR",
+            "is_primary": 1,
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        }
+    ],
+    "company_similar_collection": [
+        {
+            "id": 117655102,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/evenclick",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 1
+        },
+        {
+            "id": 117655104,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/techtrek",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 1
+        },
+        {
+            "id": 117655106,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/bythebeachmiami",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 117655107,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/hexa-spinner",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-05-21 22:36:46",
+            "deleted": 1
+        },
+        {
+            "id": 117655108,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/comuti",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-05-21 22:36:46",
+            "deleted": 1
+        },
+        {
+            "id": 117655109,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/sounder-music",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-09-14 16:11:50",
+            "deleted": 1
+        },
+        {
+            "id": 117655110,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/kate-london",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-05-21 22:36:46",
+            "deleted": 1
+        },
+        {
+            "id": 117655111,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/thedevblock",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-05-21 22:36:46",
+            "deleted": 1
+        },
+        {
+            "id": 117655112,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/newcombin",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-05-21 22:36:46",
+            "deleted": 1
+        },
+        {
+            "id": 117655113,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/itba",
+            "created": "2020-03-24 11:46:01",
+            "last_updated": "2020-04-18 17:55:29",
+            "deleted": 1
+        },
+        {
+            "id": 133637006,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/curvegrid",
+            "created": "2020-04-18 17:55:29",
+            "last_updated": "2020-05-21 22:36:46",
+            "deleted": 1
+        },
+        {
+            "id": 155085105,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/bunkai-digital",
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 155085106,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/f1rstcomm",
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 155085107,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/rubikit",
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 155085108,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/searchvalues",
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 155085109,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/intuitivo-ai",
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 155085110,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/fm-delta-90-3",
+            "created": "2020-05-21 22:36:46",
+            "last_updated": "2020-06-04 00:47:40",
+            "deleted": 1
+        },
+        {
+            "id": 162249297,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/urban-sherpas",
+            "created": "2020-06-04 00:47:40",
+            "last_updated": "2020-07-31 04:52:42",
+            "deleted": 1
+        },
+        {
+            "id": 199044887,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/humand-talent",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 199044888,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/fm-delta-90-3",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-10-30 21:17:11",
+            "deleted": 1
+        },
+        {
+            "id": 199044889,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/bewee-me",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-09-14 16:11:50",
+            "deleted": 1
+        },
+        {
+            "id": 199044890,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/creatik-market",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-08-20 10:32:43",
+            "deleted": 1
+        },
+        {
+            "id": 199044891,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/for-me-app",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-08-20 10:32:43",
+            "deleted": 1
+        },
+        {
+            "id": 199044892,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/humand",
+            "created": "2020-07-31 04:52:42",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 211906560,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/leer-cura",
+            "created": "2020-08-20 10:32:43",
+            "last_updated": "2020-10-30 21:17:11",
+            "deleted": 1
+        },
+        {
+            "id": 211906561,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/microsoft",
+            "created": "2020-08-20 10:32:43",
+            "last_updated": "2020-09-14 16:11:50",
+            "deleted": 1
+        },
+        {
+            "id": 226872069,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/hexa-spinner",
+            "created": "2020-09-14 16:11:50",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 226872070,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/comuti",
+            "created": "2020-09-14 16:11:50",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 226872071,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/latam-investments",
+            "created": "2020-09-14 16:11:50",
+            "last_updated": "2020-10-30 21:17:11",
+            "deleted": 1
+        },
+        {
+            "id": 258212182,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/vecini",
+            "created": "2020-10-30 21:17:11",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 258212183,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/glotools",
+            "created": "2020-10-30 21:17:11",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 1
+        },
+        {
+            "id": 258212184,
+            "company_id": 25877542,
+            "url": "https://www.linkedin.com/company/uniteartgroup",
+            "created": "2020-10-30 21:17:11",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 1
+        },
+        {
+            "id": 279271919,
+            "company_id": 25877542,
+            "url": "https://ar.linkedin.com/company/evenclick",
+            "created": "2020-11-19 18:36:30",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 279271920,
+            "company_id": 25877542,
+            "url": "https://ar.linkedin.com/company/techtrek",
+            "created": "2020-11-19 18:36:30",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 279271921,
+            "company_id": 25877542,
+            "url": "https://ar.linkedin.com/company/latam-investments",
+            "created": "2020-11-19 18:36:30",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        },
+        {
+            "id": 279271922,
+            "company_id": 25877542,
+            "url": "https://ar.linkedin.com/company/blackbox-vision",
+            "created": "2020-11-19 18:36:30",
+            "last_updated": "2020-11-19 18:36:30",
+            "deleted": 0
+        }
+    ],
+    "company_specialties_collection": [],
+    "company_stock_info_collection": [],
+    "company_updates_collection": []
+}
