@@ -1,0 +1,274 @@
+[
+    {
+        "id": 53816945,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/mionov",
+        "created": "2020-09-18 04:21:36",
+        "last_updated": "2022-03-17 09:35:51",
+        "deleted": 1
+    },
+    {
+        "id": 53816946,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/liza-pushkareva",
+        "created": "2020-09-18 04:21:36",
+        "last_updated": "2021-07-16 23:12:20",
+        "deleted": 1
+    },
+    {
+        "id": 53816947,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/yuri-gurski-33830320",
+        "created": "2020-09-18 04:21:36",
+        "last_updated": "2021-03-12 07:34:58",
+        "deleted": 1
+    },
+    {
+        "id": 53816948,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/katerina-brouka-b9153329",
+        "created": "2020-09-18 04:21:36",
+        "last_updated": "2020-10-07 12:36:47",
+        "deleted": 1
+    },
+    {
+        "id": 54456179,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/alexeizhurba",
+        "created": "2020-10-07 12:36:47",
+        "last_updated": "2022-07-03 05:58:28",
+        "deleted": 1
+    },
+    {
+        "id": 61850769,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/frolovalexander",
+        "created": "2021-03-12 07:34:58",
+        "last_updated": "2021-04-03 06:07:37",
+        "deleted": 1
+    },
+    {
+        "id": 63323579,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/epave",
+        "created": "2021-04-03 06:07:37",
+        "last_updated": "2021-12-01 09:31:31",
+        "deleted": 1
+    },
+    {
+        "id": 69016789,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/kutanov",
+        "created": "2021-07-16 23:12:20",
+        "last_updated": "2022-04-03 13:23:26",
+        "deleted": 1
+    },
+    {
+        "id": 80090232,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/liza-pushkareva",
+        "created": "2021-12-01 09:31:31",
+        "last_updated": "2021-12-29 13:18:01",
+        "deleted": 1
+    },
+    {
+        "id": 81425107,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/anna-abilova-6913864",
+        "created": "2021-12-29 13:18:01",
+        "last_updated": "2022-04-03 13:23:26",
+        "deleted": 1
+    },
+    {
+        "id": 87428323,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/liza-pushkareva",
+        "created": "2022-03-17 09:35:51",
+        "last_updated": "2022-04-03 13:23:26",
+        "deleted": 1
+    },
+    {
+        "id": 89065713,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/mionov",
+        "created": "2022-04-03 13:23:26",
+        "last_updated": "2022-07-03 05:58:28",
+        "deleted": 1
+    },
+    {
+        "id": 89065714,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/frolovalexander",
+        "created": "2022-04-03 13:23:26",
+        "last_updated": "2022-06-18 12:56:15",
+        "deleted": 1
+    },
+    {
+        "id": 89065715,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/yuri-gurski-33830320",
+        "created": "2022-04-03 13:23:26",
+        "last_updated": "2022-05-13 15:25:19",
+        "deleted": 1
+    },
+    {
+        "id": 90647461,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/ketty-slonimsky-1589618",
+        "created": "2022-05-13 15:25:19",
+        "last_updated": "2022-07-03 05:58:28",
+        "deleted": 1
+    },
+    {
+        "id": 91898657,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/yuri-gurski-33830320",
+        "created": "2022-06-18 12:56:15",
+        "last_updated": "2022-06-28 15:37:52",
+        "deleted": 1
+    },
+    {
+        "id": 92899807,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/anna-abilova-6913864",
+        "created": "2022-06-28 15:37:52",
+        "last_updated": "2022-07-03 05:58:28",
+        "deleted": 1
+    },
+    {
+        "id": 93723047,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/alexeizhurba",
+        "created": "2022-07-06 13:41:58",
+        "last_updated": "2022-07-24 14:06:58",
+        "deleted": 1
+    },
+    {
+        "id": 93723048,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/anna-abilova-6913864",
+        "created": "2022-07-06 13:41:58",
+        "last_updated": "2022-07-24 14:06:58",
+        "deleted": 1
+    },
+    {
+        "id": 93723049,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/ketty-slonimsky-1589618",
+        "created": "2022-07-06 13:41:58",
+        "last_updated": "2022-07-24 14:06:58",
+        "deleted": 1
+    },
+    {
+        "id": 93723050,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/mionov",
+        "created": "2022-07-06 13:41:58",
+        "last_updated": "2022-07-24 14:06:58",
+        "deleted": 1
+    },
+    {
+        "id": 112574882,
+        "company_id": 30280568,
+        "url": "https://es.linkedin.com/in/alexeizhurba",
+        "created": "2022-07-24 14:06:58",
+        "last_updated": "2023-08-16 00:32:29",
+        "deleted": 1
+    },
+    {
+        "id": 112574883,
+        "company_id": 30280568,
+        "url": "https://cy.linkedin.com/in/anna-abilova-6913864",
+        "created": "2022-07-24 14:06:58",
+        "last_updated": "2024-11-05 00:39:23",
+        "deleted": 0
+    },
+    {
+        "id": 112574884,
+        "company_id": 30280568,
+        "url": "https://uk.linkedin.com/in/ketty-slonimsky-1589618",
+        "created": "2022-07-24 14:06:58",
+        "last_updated": "2023-02-22 03:44:37",
+        "deleted": 1
+    },
+    {
+        "id": 112574885,
+        "company_id": 30280568,
+        "url": "https://uk.linkedin.com/in/mionov",
+        "created": "2022-07-24 14:06:58",
+        "last_updated": "2022-09-16 11:21:30",
+        "deleted": 1
+    },
+    {
+        "id": 132823817,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/matthewsavarick",
+        "created": "2022-09-16 11:21:30",
+        "last_updated": "2023-01-12 09:21:04",
+        "deleted": 1
+    },
+    {
+        "id": 157687331,
+        "company_id": 30280568,
+        "url": "https://uk.linkedin.com/in/annagreen0g",
+        "created": "2023-01-12 09:21:04",
+        "last_updated": "2023-02-22 03:44:37",
+        "deleted": 1
+    },
+    {
+        "id": 160257497,
+        "company_id": 30280568,
+        "url": "https://cy.linkedin.com/in/yarantsau",
+        "created": "2023-02-22 03:44:37",
+        "last_updated": "2024-11-05 00:39:23",
+        "deleted": 0
+    },
+    {
+        "id": 160257498,
+        "company_id": 30280568,
+        "url": "https://il.linkedin.com/in/yaron-luk-zilberman-09a1795",
+        "created": "2023-02-22 03:44:37",
+        "last_updated": "2023-02-26 12:06:33",
+        "deleted": 1
+    },
+    {
+        "id": 160380315,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/pvdanilov",
+        "created": "2023-02-26 12:06:33",
+        "last_updated": "2023-03-16 01:30:41",
+        "deleted": 1
+    },
+    {
+        "id": 161546683,
+        "company_id": 30280568,
+        "url": "https://il.linkedin.com/in/yaron-luk-zilberman-09a1795",
+        "created": "2023-03-16 01:30:41",
+        "last_updated": "2023-07-20 06:35:10",
+        "deleted": 1
+    },
+    {
+        "id": 183207671,
+        "company_id": 30280568,
+        "url": "https://uk.linkedin.com/in/ketty-slonimsky-1589618",
+        "created": "2023-07-20 06:35:10",
+        "last_updated": "2024-11-05 00:39:23",
+        "deleted": 0
+    },
+    {
+        "id": 187384324,
+        "company_id": 30280568,
+        "url": "https://uk.linkedin.com/in/annagreen0g",
+        "created": "2023-08-16 00:32:29",
+        "last_updated": "2023-09-14 22:39:58",
+        "deleted": 1
+    },
+    {
+        "id": 189423205,
+        "company_id": 30280568,
+        "url": "https://www.linkedin.com/in/izsai",
+        "created": "2023-09-14 22:39:58",
+        "last_updated": "2024-11-05 00:39:23",
+        "deleted": 0
+    }
+]

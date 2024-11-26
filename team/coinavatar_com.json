@@ -1,0 +1,98 @@
+[
+    {
+        "id": 190022117,
+        "company_id": 93982558,
+        "url": "https://ua.linkedin.com/in/kirill-yusov",
+        "created": "2023-09-18 21:42:06",
+        "last_updated": "2024-02-08 11:39:42",
+        "deleted": 1
+    },
+    {
+        "id": 190022118,
+        "company_id": 93982558,
+        "url": "https://de.linkedin.com/in/sashaandrieiev",
+        "created": "2023-09-18 21:42:06",
+        "last_updated": "2023-11-15 11:18:09",
+        "deleted": 1
+    },
+    {
+        "id": 193074444,
+        "company_id": 93982558,
+        "url": "https://rs.linkedin.com/in/radovan-vukotic",
+        "created": "2023-10-23 09:19:47",
+        "last_updated": "2023-11-15 11:18:09",
+        "deleted": 1
+    },
+    {
+        "id": 194989525,
+        "company_id": 93982558,
+        "url": "https://ua.linkedin.com/in/sviatoslav-vlasenko-6aba1459/en",
+        "created": "2023-11-15 11:18:09",
+        "last_updated": "2024-04-10 16:51:09",
+        "deleted": 1
+    },
+    {
+        "id": 194989526,
+        "company_id": 93982558,
+        "url": "https://ee.linkedin.com/in/sashaandrieiev",
+        "created": "2023-11-15 11:18:09",
+        "last_updated": "2024-11-10 13:27:54",
+        "deleted": 0
+    },
+    {
+        "id": 194989527,
+        "company_id": 93982558,
+        "url": "https://pl.linkedin.com/in/oleh-rubanik",
+        "created": "2023-11-15 11:18:09",
+        "last_updated": "2024-03-24 05:28:06",
+        "deleted": 1
+    },
+    {
+        "id": 201193559,
+        "company_id": 93982558,
+        "url": "https://de.linkedin.com/in/kirill-yusov",
+        "created": "2024-02-08 11:39:42",
+        "last_updated": "2024-11-10 13:27:54",
+        "deleted": 0
+    },
+    {
+        "id": 203649898,
+        "company_id": 93982558,
+        "url": "https://es.linkedin.com/in/maximbaburin",
+        "created": "2024-03-24 05:28:06",
+        "last_updated": "2024-08-17 00:44:32",
+        "deleted": 1
+    },
+    {
+        "id": 204453207,
+        "company_id": 93982558,
+        "url": "https://ua.linkedin.com/in/sviatoslav-vlasenko-6aba1459",
+        "created": "2024-04-10 16:51:09",
+        "last_updated": "2024-05-16 11:50:41",
+        "deleted": 1
+    },
+    {
+        "id": 206110432,
+        "company_id": 93982558,
+        "url": "https://pl.linkedin.com/in/sviatoslav-vlasenko-6aba1459",
+        "created": "2024-05-16 11:50:41",
+        "last_updated": "2024-11-10 13:27:54",
+        "deleted": 0
+    },
+    {
+        "id": 210946309,
+        "company_id": 93982558,
+        "url": "https://pt.linkedin.com/in/maximbaburin",
+        "created": "2024-08-17 00:44:32",
+        "last_updated": "2024-09-12 20:45:56",
+        "deleted": 1
+    },
+    {
+        "id": 212552541,
+        "company_id": 93982558,
+        "url": "https://es.linkedin.com/in/maximbaburin",
+        "created": "2024-09-12 20:45:56",
+        "last_updated": "2024-11-10 13:27:54",
+        "deleted": 0
+    }
+]

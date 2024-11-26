@@ -1,0 +1,42 @@
+[
+    {
+        "id": 40397822,
+        "company_id": 25877542,
+        "url": "https://www.linkedin.com/in/marcos-ariel-atar-3a72bb85",
+        "created": "2020-03-24 11:46:01",
+        "last_updated": "2020-07-31 04:52:42",
+        "deleted": 1
+    },
+    {
+        "id": 40397823,
+        "company_id": 25877542,
+        "url": "https://www.linkedin.com/in/benenzon",
+        "created": "2020-03-24 11:46:01",
+        "last_updated": "2020-11-19 18:36:30",
+        "deleted": 0
+    },
+    {
+        "id": 40397824,
+        "company_id": 25877542,
+        "url": "https://www.linkedin.com/in/geronimomaspero",
+        "created": "2020-03-24 11:46:01",
+        "last_updated": "2020-11-19 18:36:30",
+        "deleted": 0
+    },
+    {
+        "id": 48552895,
+        "company_id": 25877542,
+        "url": "https://www.linkedin.com/in/guidofaranna",
+        "created": "2020-07-31 04:52:42",
+        "last_updated": "2020-11-19 18:36:30",
+        "deleted": 0
+    },
+    {
+        "id": 55325406,
+        "company_id": 25877542,
+        "url": "https://www.linkedin.com/in/jorgeandresrocha",
+        "created": "2020-10-30 21:17:11",
+        "last_updated": "2020-11-19 18:36:30",
+        "deleted": 0
+    }
+]
